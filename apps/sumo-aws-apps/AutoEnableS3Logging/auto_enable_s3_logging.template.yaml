@@ -17,7 +17,7 @@ Parameters:
     AllowedValues:
       - 'S3'
       - 'VPC'
-
+      - 'Firewall'
   ExistingResource:
     Type: String
     Description: "Yes - Enable Logging for existing resources.
